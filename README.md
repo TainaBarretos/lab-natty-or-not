@@ -18,6 +18,6 @@ Este podcast exemplifica para todos como as IAs podem ajudar as pessoas com algu
 
 O podcast foi bastante estimulante para o campo das IAs Generativas e como elas ajudam a vida de pessoas com deficiências. Levando o conhecimento para outras pessoas!
 
-[LINK DO RESULTADO](caminho/para/Project1.mp3)
+[LINK DO RESULTADO](caminho/para/seu/Project1.mp3)
 
 
